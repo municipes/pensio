@@ -1,0 +1,28 @@
+{
+    "name": "municipes/pensio",
+    "description": "Pensĭo è un modulo Drupal che gestisce il tipo di contenuto Pagamento.",
+    "type": "drupal-module",
+    "license": "GPL-3.0-only",
+    "homepage": "https://github.com/municipes/pensio",
+    "authors": [
+        {
+            "name": "Maurizio Cavalletti",
+            "homepage":"https://www.drupal.org/u/maurizio_akabit",
+            "role": "Maintainer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/municipes/pensio/issues",
+        "source": "https://github.com/municipes/pensio"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "drupal/auto_entitylabel": "^3.0",
+        "drupal/core-recommended": "^10",
+        "drupal/field_group": "^3",
+        "drupal/focal_point": "^2.0",
+        "municipes/lexicum": "^1",
+        "municipes/fundamentum": "^1"
+    }
+}
