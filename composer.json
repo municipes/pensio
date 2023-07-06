@@ -19,7 +19,7 @@
     "prefer-stable": true,
     "require": {
         "drupal/auto_entitylabel": "^3.0",
-        "drupal/core-recommended": "^9.5",
+        "drupal/core-recommended": "^10",
         "drupal/field_group": "^3",
         "drupal/focal_point": "^2.0",
         "municipes/lexicum": "^1",
